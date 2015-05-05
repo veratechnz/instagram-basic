@@ -1,0 +1,5 @@
+Client Info
+Client ID 	6bc326a9ae664ceda24fc7f5d138847c
+Client Secret 	5289f8f3dd3e470a81f1c6455e623a39
+Website URL 	http://veratech.co.nz
+Redirect URI 	http://veratech.co.nz
