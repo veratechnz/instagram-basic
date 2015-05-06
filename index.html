@@ -6,7 +6,28 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 </head>
 <body>
-
 	
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">	
+			<div id="instafeed"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="instafeed.js"></script>
+	<script>
+
+		var feed = new Instafeed({
+	        get: 'tagged',
+	        tagName: 'paulapatton',
+	        clientId: '6bc326a9ae664ceda24fc7f5d138847c'
+	    });
+
+	    feed.run();
+
+	</script>
 </body>
 </html>

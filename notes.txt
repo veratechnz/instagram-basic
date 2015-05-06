@@ -1,3 +1,13 @@
+TUT:
+
+1. Reg on insta developer network 
+http://www.developerdrive.com/2014/02/how-to-use-the-instagram-api/
+
+2. Get access token 
+https://instagram.com/developer/authentication/
+
+3.
+
 Client Info
 Client ID 	6bc326a9ae664ceda24fc7f5d138847c
 Client Secret 	5289f8f3dd3e470a81f1c6455e623a39
